@@ -1,0 +1,10 @@
+{
+    "name": "wizar/php-mvc-core",
+    "authors": [
+        {
+            "name": "Wizarphics",
+            "email": "ireoluwaomotosho7@gmail.com"
+        }
+    ],
+    "require": {}
+}
