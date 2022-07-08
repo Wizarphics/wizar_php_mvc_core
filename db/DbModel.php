@@ -11,10 +11,10 @@
  *
  */
 
-namespace app\core\db;
+namespace wizar\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use wizar\phpmvc\Application;
+use wizar\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

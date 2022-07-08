@@ -11,7 +11,7 @@
  *
  */
 
-namespace app\core;
+namespace wizar\phpmvc;
 
 class Response
 {

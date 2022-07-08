@@ -11,9 +11,9 @@
  *
  */
 
-namespace app\core;
+namespace wizar\phpmvc;
 
-use app\core\exceptions\NotFoundException;
+use wizar\phpmvc\exceptions\NotFoundException;
 
 class Router
 {

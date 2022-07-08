@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exceptions;
+namespace wizar\phpmvc\exceptions;
 
 class ForbiddenException extends \Exception
 {

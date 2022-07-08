@@ -6,5 +6,10 @@
             "email": "ireoluwaomotosho7@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "wizar\\php-mvc-core": "."
+        }
+    },
     "require": {}
 }

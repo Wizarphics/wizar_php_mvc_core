@@ -11,9 +11,9 @@
  *
  */
 
-namespace app\core\db;
+namespace wizar\phpmvc\db;
 
-use app\core\Application;
+use wizar\phpmvc\Application;
 use \PDO;
 
 class Database

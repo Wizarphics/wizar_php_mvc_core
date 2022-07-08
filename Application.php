@@ -11,9 +11,9 @@
  *
  */
 
-namespace app\core;
+namespace wizar\phpmvc;
 
-use app\core\db\Database;
+use wizar\phpmvc\db\Database;
 
 class Application
 {

@@ -11,9 +11,9 @@
  *
  */
 
-namespace app\core;
+namespace wizar\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use wizar\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

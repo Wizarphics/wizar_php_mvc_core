@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace wizar\phpmvc\form;
 
-use app\core\Model;
+use wizar\phpmvc\Model;
 
 abstract class BaseField
 {
